@@ -1,6 +1,12 @@
 @import url("styles/header.css");
 :root {
     --cor-de-fundo: #EBECEE;
+    .lista-menu__titulo,
+    .lista-menu__item {
+      padding: 1em;
+      background-color: var(--branco);
+    }
+    
 }
 
 
